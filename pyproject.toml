@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cashewnut"
+version = "0.3.0"
+description = "A Python framework for building server-side applications, built around a rich, hierarchical middleware system and an inbuilt AI architecture."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "Nandanunni", email = "asnqln@gmail.com" }
+]
